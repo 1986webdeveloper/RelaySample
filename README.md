@@ -1,11 +1,4 @@
-# Relay Examples [![Build Status](https://travis-ci.org/relayjs/relay-examples.svg?branch=master)](https://travis-ci.org/relayjs/relay-examples)
+# Relay Examples 
 
-A collection of example applications using [Relay](https://github.com/facebook/relay).
+To do sample using Relay. Using this you will able to add task to todo and same will be added to the list.
 
-# Contributing
-
-See [CONTRIBUTING.md](https://github.com/relayjs/relay-examples/blob/master/CONTRIBUTING.md).
-
-# License
-
-See [LICENSE.md](https://github.com/relayjs/relay-examples/blob/master/LICENSE.md).
